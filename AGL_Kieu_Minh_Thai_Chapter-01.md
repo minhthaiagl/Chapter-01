@@ -10,8 +10,7 @@ Bạn cần dựa vào các cáp vật lý này để truy cập Internet.
 > 2. Khi yêu cầu đến, máy chủ sẽ truy xuất trang web và gửi dữ liệu chính xác trở lại máy tính của bạn.
 
  Tài liệu tham khảo
- * [Wikipedia](https://vi.wikipedia.org/wiki/Internet#:~:text=Internet%20hay%20M%E1%BA%A1ng%20(phi%C3%AAn%20%C3%A2m,h%C3%B3a%20(giao%20th%E1%BB%A9c%20IP))
- * [BRANDINFO](https://brandinfo.biz/website/internet-la-gi-/144-260-373.html)
+  [BRANDINFO](https://brandinfo.biz/website/internet-la-gi-/144-260-373.html)
 # Giải thích về protocol của HTTP/HTTPS
 ## HTTP
 * HTTP là viết tắt của HyperText Transfer Protocol , là 1 giao thức cơ bản dùng cho World Wide Web (www) để truyền tải siêu văn bản.
